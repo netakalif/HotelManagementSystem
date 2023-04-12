@@ -41,13 +41,15 @@ Rooms To Clean: View a list of rooms that require cleaning and housekeeping.
 
 **Edit Rooms:** Allow managers to modify the details of existing rooms, such as their status, availability, and price.
 
-# Authors
+### Authors
 This project was written by Neta Kalif.
 
-# Acknowledgments
+### Acknowledgments
 I would like to acknowledge the following resources and tools that were instrumental in the development of this project:
 
 Hotel Management System | Java Project | by Code for interview
+
+![image](https://user-images.githubusercontent.com/119502111/231522050-7c0b6639-2bbb-413f-91d3-1c2d6b0823a8.png)
 
 
 
