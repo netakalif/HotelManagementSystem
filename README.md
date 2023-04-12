@@ -50,6 +50,7 @@ I would like to acknowledge the following resources and tools that were instrume
 Hotel Management System | Java Project | by Code for interview
 
 ##Screen shots:
+
 Log-In Page-
 ![image](https://user-images.githubusercontent.com/119502111/231522050-7c0b6639-2bbb-413f-91d3-1c2d6b0823a8.png)
 
