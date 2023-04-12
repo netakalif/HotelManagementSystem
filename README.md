@@ -1,9 +1,9 @@
-## HotelManagementSystem
+# Hotel Management System
 
 Hotel Management System
 The Hotel Management System is a Java-based application designed to manage a hotel's operations. It includes a database that stores information on rooms, employees, and guests. The system's features are accessible through an intuitive graphical user interface that provides a range of options for managing hotel operations.
 
-# Getting Started
+### Getting Started
 To run the application, you will need to have Java installed on your machine. To begin, follow these steps:
 
 Clone the project repository to your local machine.
@@ -12,7 +12,7 @@ Activate the main file to launch the application.
 Login to the system using the provided credentials.
 To access the admin interface, use the username "admin" and password "12345". To access the regular employee interface, use the username "mirit" and password "123".
 
-# Features
+### Features
 The system offers a range of features to manage hotel operations, including:
 
 **at the reception page:**
